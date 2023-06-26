@@ -27,7 +27,7 @@ int main()
                 }
                 else
                 {
-                    st.push('(');
+                    st.push(')');
                     break;
                 }
             }
